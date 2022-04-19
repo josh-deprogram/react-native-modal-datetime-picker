@@ -50,7 +50,7 @@
     "semantic-release": "^17.1.2"
   },
   "peerDependencies": {
-    "@react-native-community/datetimepicker": "https://github.com/josh-deprogram/datetimepicker",
+    "@react-native-community/datetimepicker": "https://github.com/josh-deprogram/datetimepicker#1db309515e34c789bfdd501f39c9a77d0e4749a4",
     "react-native": ">=0.65.0"
   },
   "husky": {
